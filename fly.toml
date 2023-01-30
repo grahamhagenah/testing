@@ -1,4 +1,4 @@
-app = "my-remix-app-2fe0"
+app = "indie-stack-template-graham"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
